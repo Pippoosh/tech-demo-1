@@ -9,3 +9,8 @@ Selected Option: Paris
 Correct: true
 Timestamp: 2025-02-28T22:06:22.862244
 
+Question: What is the capital of France?
+Selected Option: Paris
+Correct: true
+Timestamp: 2025-02-28T22:08:15.395915
+
